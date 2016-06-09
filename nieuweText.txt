@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 test 123 s
+2e regel
+=======
+test 123 s
+>>>>>>> branch 'master' of https://github.com/mikecheckum/repo.git
